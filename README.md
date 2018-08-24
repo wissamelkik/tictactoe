@@ -1,11 +1,11 @@
 ## Requirements
-PHP >= 7.1.3
-OpenSSL PHP Extension
-PDO PHP Extension
-Mbstring PHP Extension
-Composer
-Node.js 8+
-NPM
+* PHP >= 7.1.3
+* OpenSSL PHP Extension
+* PDO PHP Extension
+* Mbstring PHP Extension
+* Composer
+* Node.js 8+
+* NPM
 
 ## Run the code
 1. Build the app
